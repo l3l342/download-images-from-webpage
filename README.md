@@ -9,4 +9,4 @@ Download every "&lt;a href="image_name.jpg">" from website with python
 
 #Usage
 - Download every linked picture from an website 
-- Open the script in the same working dir as the images folder
+- Create "images" folder 
